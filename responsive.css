@@ -1,7 +1,10 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
+ .div-content{
+  text-align:center;
+ }
  .content{
-  width:45%;
+  width:50%;
   margin-bottom:20px;
   padding:10px;
  }
@@ -28,7 +31,7 @@
   width:100%;
  }
  .content{
-  width:98%;
+  width:100%;
  }
  .textarea{
   width:100%;
