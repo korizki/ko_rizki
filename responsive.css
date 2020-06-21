@@ -1,0 +1,38 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+ .content{
+  width:48%;
+  margin-bottom:20px;
+  padding:10px;
+ }
+ .content p{
+  font-size:20px;
+ }
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+ .header-right{
+  display:none;
+ }
+ .top-header h2{
+  font-size:40px;
+  letter-spacing:2px;
+  padding-bottom:20px;
+ }
+ .top-header p{
+  margin-bottom:15px;
+ }
+ .google{
+  margin-bottom:15px;
+ }
+ .btn{
+  width:100%;
+ }
+ .content{
+  width:98%;
+ }
+ .textarea{
+  width:380px;
+ }
+ .menu-icon{
+  display:block;
+ }
