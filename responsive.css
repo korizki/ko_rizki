@@ -31,7 +31,10 @@
   width:98%;
  }
  .textarea{
-  width:80%;
+  width:100%;
+ }
+ .input{
+ width:100%;
  }
  .menu-icon{
   display:block;
