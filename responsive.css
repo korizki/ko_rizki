@@ -1,7 +1,7 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
  .content{
-  width:48%;
+  width:45%;
   margin-bottom:20px;
   padding:10px;
  }
@@ -34,7 +34,7 @@
   width:100%;
  }
  .input{
- width:100%;
+  width:100%;
  }
  .menu-icon{
   display:block;
