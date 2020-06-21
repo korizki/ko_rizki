@@ -15,8 +15,8 @@ header{
 	z-index:10;
 }
 .logo{
-	padding:10px 0px;
-	height:65px;
+	padding-top:10px;
+	height:50px;
 }
 .container{
 	width:100%;
@@ -71,8 +71,8 @@ a{
 	opacity:0.7;
 	font-size:50px;
 	text-shadow:3px 3px #595a5b;
-    letter-spacing:5px;
-    margin-bottom:40px;
+    letter-spacing:2px
+    margin-bottom:10px;
 }
 .top-header p{
 	opacity:0.8;
@@ -115,19 +115,16 @@ h3{
 }
 .div-content{
 	padding-bottom:30px;
-	padding-left:5%;
-	padding-right:5%;
 	text-align:center;
 
 }
 .content{
-	text-align:center;
 	float:left;
-	width:24%;
+	width:25%;
 	border:1px solid #dcdcdc;
-	border-radius:5px;
-	margin:0px 5px;
-	padding:0px 5px;
+	border-radius:10px;
+	padding:0px 15px;
+	box-shadow:0px 0px 15px 1px #dcdcdc;
 }
 .content img{
 	width:100%;
